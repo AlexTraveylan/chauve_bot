@@ -30,7 +30,7 @@ def allVariationWord(mot : str)->list:
         compteur1 = 0
         compteur2 = 0
         compteur3 = 0
-        # compteur4 = 0
+        compteur4 = 0
         for j in e_variation:
             modif = False
             temp_mot = list(origin)
